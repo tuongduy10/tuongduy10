@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tuong Duy
+- 👀 I’m interested in mobile development and automation testing
+- 🌱 I’m currently learning .Net Core Web Api
+- 💞️ I’m looking to collaborate on ...
+- 📫 Find me: https://www.facebook.com/tngduy10
