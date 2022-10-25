@@ -8,6 +8,5 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>  
 </div>
-- 💞️ I’m looking to collaborate on ...
 - 📫 Find me: https://www.facebook.com/tngduy10
 
