@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Tuong Duy, web developer
 - 👀 I’m interested in mobile development and automation testing
 - 🌱 I’m currently learning .Net Core Web Api, React and NextJs
-<div align="center" background="color: white">
+<div align="center" background="white">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
